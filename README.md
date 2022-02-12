@@ -11,7 +11,7 @@
 </div>
   
   ##
-  <h3 align="center"> Linguagens que conheço <h3>
+  <h3 align="center"> 💻 Tecnologias e Ferramentas: <h3>
   <div align="center" style="display: inline_block"><br>
      
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,9 +26,9 @@
 </div>
   
 
-
+ <h3 align="center"> Onde você pode me encontrar:</h3>
 <div align="center"> 
-     <p> Onde você pode me encontrar</p>
+    
   <a href="https://instagram.com/ramonffbarros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/ramonburns" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <a href = "mailto:ramonfilipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
