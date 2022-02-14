@@ -39,7 +39,7 @@
 </div>
 
 
-- 🌱 I’m currently learning: Angualar;
+- 🌱 I’m currently learning: Angualar and Python;
 - 💬 Ask me about: esportes;
 - ⚡ Fun fact: não sei chutar bola com aperna esquerda.
 
